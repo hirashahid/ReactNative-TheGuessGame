@@ -1,4 +1,4 @@
-# ReactNative-TheGuessGame
+### ReactNative-TheGuessGame
 Developed this Hybrid Mobile App which is named as “The Guess Game” by using React Native.
 => This Game has 3 screens, the first one is the main screen where user enters any number between 1 and 99
 => After entering the number, a user would press the Start Game Button, the next screen will be popped up.
